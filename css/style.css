@@ -416,6 +416,12 @@ p {
     margin-bottom: 26px;
 }
 
+.iframe {
+    width: 320px;
+    height: 320px;
+    border: 0;
+}
+
 
 /* form */
 
